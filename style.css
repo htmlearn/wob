@@ -1,0 +1,53 @@
+@font-face {
+   font-family: 'Open Sans Light';
+   font-style: normal;
+   font-weight: 300;
+   src:url(https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTRa1RVmPjeKy21_GQJaLlJI.woff) format('woff');
+}
+nav{
+    text-align: center;
+    color: black;
+    font-variant: small-caps;
+    font-family:serif;
+    word-spacing: 65px;
+    font-size: 18px;
+    line-height: 40px;
+    padding: 4px;
+    background-color: #dddddd;
+}
+body{
+    font-family:'Open Sans Light';
+    background: linear-gradient(#e6f9ff,#80dfff);
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 3%
+}
+h1{
+    color:black;
+    font-family: Arial; !important;
+    font-size: 34px;
+    text-align: center; 
+    line-height: 21px;
+    
+}
+h2{
+    background: #00B7aa;
+}
+h5{
+    color: black;
+    text-align: center;
+    line-height: 20%
+    
+}
+.main{
+    
+    width: auto;
+    height: auto;
+    text-align: justify;
+    
+}
+.gg{
+    font-family:monospace;
+    color: black;
+    font-size: 12px;
+}
